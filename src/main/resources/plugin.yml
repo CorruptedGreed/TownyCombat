@@ -7,6 +7,7 @@ website: 'http://townyadvanced.github.io'
 prefix: ${project.artifactId}
 depend: [Towny]
 softdepend: [dynmap]
+folia-supported: true
 
 description: A combat plugin for Towny
 
